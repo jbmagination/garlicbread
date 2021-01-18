@@ -1,0 +1,25 @@
+{
+  "name": "garlicbread",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node .",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbmagination/garlicbread.git"
+  },
+  "author": "JBMagination",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jbmagination/garlicbread/issues"
+  },
+  "homepage": "https://github.com/jbmagination/garlicbread#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "eslint": "^7.18.0"
+  }
+}
